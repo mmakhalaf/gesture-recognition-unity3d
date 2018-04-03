@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Core\MenuUI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Core\ActionRecognizer.cs" Line="116" Column="4" />
+      <File FileName="Assets\Scripts\Core\DTW.cs" Line="264" Column="18" />
+      <File FileName="Assets\Scripts\Core\MenuUI.cs" Line="100" Column="24" />
+      <File FileName="Assets\Scripts\Util\mDebug.cs" Line="41" Column="52" />
+      <File FileName="Assets\Scripts\Core\AgentController.cs" Line="65" Column="22" />
+      <File FileName="d:\_work_repo_windows\msc_work\miniproject_2\code\action_ir\Assets\Scripts\Tests\DTWTest.cs" Line="71" Column="59" />
+      <File FileName="Assets\Scripts\Core\Pose.cs" Line="133" Column="4" />
+      <File FileName="Assets\Scripts\Core\DB\ActionInstance.cs" Line="34" Column="11" />
+      <File FileName="Assets\Scripts\Core\DB\ActionDatabase.cs" Line="51" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

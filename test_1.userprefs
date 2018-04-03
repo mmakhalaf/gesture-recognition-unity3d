@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SkelDataParser.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AgentMotors.cs" Line="68" Column="40" />
+      <File FileName="Assets\Scripts\SkelDataParser.cs" Line="75" Column="20" />
+      <File FileName="Assets\Scripts\BodyJoint.cs" Line="29" Column="2" />
+      <File FileName="Assets\Scripts\BodyBone.cs" Line="15" Column="20" />
+      <File FileName="Assets\Scripts\mDebug.cs" Line="13" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
