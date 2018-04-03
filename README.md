@@ -1,5 +1,7 @@
 # Gesture Recognition in Unity3D
 
+  *Warning*: This is part of a university mini-project, so use at your own risk
+
 Classifies a given action sequence to the class of actions it fits best, and returns the sub-sequence matched as well as the type of action that matched
 
 To train it, the input is a segmented action sequence describing the motion.
